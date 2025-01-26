@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NicholaCoding
+- 👋 Hi, I’m @NicholasCoding
 - 👀 I’m interested in Python, Java Script, Cyber Security 
 - 🌱 I’m currently learning Computer Science  
 - Twitter - 
